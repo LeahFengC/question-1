@@ -15,7 +15,7 @@
 <script>
 import { data } from '@/mock/mock'
 export default {
-  data() {
+  data () {
     return {
       data,
       value: null,

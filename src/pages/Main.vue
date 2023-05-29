@@ -9,7 +9,7 @@
 import Question1 from './question/question_1'
 import Question2 from './question/question_2'
 export default {
-  components:{
+  components: {
     Question1,
     Question2
   },
