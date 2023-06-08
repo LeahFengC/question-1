@@ -31,7 +31,7 @@ export default {}
 .pentagram-right {
   width: 0px;
   height: 0px;
-  border-left: 40px solid #000000;
+  border-left: 40px solid #f8e006;
   border-right: 40px solid transparent;
   border-top: 40px solid transparent;
   border-bottom: 40px solid transparent;
